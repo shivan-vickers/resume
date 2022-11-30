@@ -2,7 +2,7 @@
 
 ## SUMMARY
 
-Software engineering student with a background in marketing, sales, and consumer electronics. As a natural problem solver and technology enthusiast, computing was a great way for me to turn my skills and passions into a career I’d enjoy. My extensive experience working as part of a team and desire to be creative lend themselves well to the software development process.
+As a natural problem solver and technology enthusiast, programming was a great way for me to turn my skills and passions into a career I could enjoy. After taking a short career break to pursue an opportunity to give back to the community in my mother's hometown, I am ready to dive back into the field of software development.
 
 ## RELEVANT EXPERIENCE
 
@@ -10,8 +10,10 @@ Software engineering student with a background in marketing, sales, and consumer
 
 #### Consultant at Vickers and Associates / Part Time Studies
 
-- Partnered with Brookes Education Group (Victoria, BC) on a project to build private, K-12 schools in the Middle East.
-- Property management of 3 tenants.
+- Partnered with Brookes Education Group (Victoria, BC) on a project to build private, K-12 schools in various cities in Iraq.
+- Continuing studies both part-time at BCIT and self-directed through online tutorials.
+- Management of 3 properties, coordinating viewings, collecting rent, and handling maintenance requests.
+- Intermittent employment at various clothing retailers.
 
 ### DevOps Engineer - Intern
 
