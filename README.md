@@ -2,7 +2,7 @@
 
 ## SUMMARY
 
-As a natural problem solver and technology enthusiast, programming was a great way for me to turn my skills and passions into a career I could enjoy. After taking a short career break to pursue an opportunity to give back to the community in my mother's hometown, I am ready to dive back into the field of software development.
+A dedicated software engineering student with a diverse background especially in the marketing and and sales of consumer electronics. I was led to software development by a passion for problem solving, and a fascination with technology. I recently took a career break to make a meaningful impact in the community that my mother grew up in and hope to now make a positive impact through technology.
 
 ## RELEVANT EXPERIENCE
 
@@ -37,7 +37,7 @@ As a natural problem solver and technology enthusiast, programming was a great w
 
 #### Premium Retail Services | May 2016 - June 2017, Mississauga, ON
 
-- Facilitated the launch of the first Google smartphone by conducting store and district level training sessions with national retailers.
+- Facilitated the launch of the first Google smartphone by conducting store and district level sessions with national retailers.
 - Provided technical training and support to over 300 sales associates and store/district managers across more than 60 retail locations.
 - Achieved highest score in North America with 99% in product knowledge tests.
 - Placed 6th nationally; Google Train Up app adoption rate.
@@ -45,28 +45,27 @@ As a natural problem solver and technology enthusiast, programming was a great w
 
 ## PROJECTS
 
-### Valorant Agent Stats | September 2022
+### Habit Tracker | github.com/shivan-vickers/habit-tracker | April 2023
+
+- Personal project, first attempt at making a full-stack web app on my own. Link to live demo on GitHub page.
+- Currently a Google Keep clone, to eventually become a way to track the development of habits (similar to apps like Habitica).
+- Technologies used: Remix, React, Tailwind CSS, TypeScript, HTML, Netlify, PostgreSQL, Supabase, Prisma ORM
+
+### Valorant Agent Stats | github.com/ayvi-0001/valorant-agent-stats | November 2022
 
 - Personal project working collaboratively with my brother. Comparing Valorant agent pick rates between ranks in competitive queue and professional play.
 - Technologies used: Python, Pandas, Seaborn, Matplotlib, BeautifulSoup.
 
 ### Freelance Web Developer | December 2019
 
-- Built simple, custom front-end features for an e-commerce website on the Shopify platform using HTML, CSS, and Liquid.
-- Providing ongoing support and consultation to clients after deployment.
+- Built custom front-end features for an e-commerce website and provided support and consultation for further development and management.
+- Technologies used: Shopify, Liquid, HTML, CSS
 
-### Game of Life Project | BCIT | December 2018
+### Love Food, Hate Waste Web App | github.com/dariadimchuk/SuperRipe | May 2018
 
-- A simulation game written during school to apply knowledge of Java and Object Oriented Design from course work.
-- Different kinds of animal and plant pieces take turns moving and interacting with each other on a two-dimensional game board.
-
-### Capstone Project - Love Food, Hate Waste Web App | BCIT | May 2018
-
-- In a group of 5, built a web app that suggests different ways to use food items before they spoil.
-- Used HTML, CSS, JavaScript for front end. PHP, and MySQL for back end.
-- Hosted app on Glowhost; managed using cPanel, phpMyAdmin, and FileZilla.
-- Implemented a web API to give users the ability to rate recipes.
+- Capstone project, working in a group of five, to build a web app that suggests different ways to use food items before they spoil.
 - Created promotional and technical walk-through videos, slideshows, and posters to present to client throughout the 5-week campaign.
+- Technologies used: HTML, CSS, JavaScript, PHP, MySQL, Glowhost, cPanel, phpMyAdmin, Web API
 
 ### Co-Founder, Marketing Lead | Course Hacker Education Inc | February 2017
 
@@ -77,9 +76,9 @@ As a natural problem solver and technology enthusiast, programming was a great w
 
 ### Computer Systems Technology Diploma
 
-British Columbia Institute of Technology • Burnaby, BC • 2023
+British Columbia Institute of Technology • Burnaby, BC • expected completion 2024
 
-### Marketing and Economics; 2 years studies
+### Marketing and Economics; 3 years studies; no certification
 
 University of British Columbia • Vancouver, BC
 
@@ -87,4 +86,4 @@ University of British Columbia • Vancouver, BC
 
 Technical: Java • C • Ruby • Python • shell / batch scripting • SQL • Database Design • MySQL • Oracle Database • HTML • CSS • JavaScript • REST APIs • Git and AccuRev version control • JIRA and GitHub issue tracking
 
-Non-Technical: Scrum / Agile methods • Troubleshooting / Product Support • Product Training • Client Relations
+Non-Technical: Scrum/Agile methods • Troubleshooting/Product Support • Product Training • CRM
